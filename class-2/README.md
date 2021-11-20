@@ -10,4 +10,6 @@ Using My Blocks for repeatable blocks of work
 Commenting and Saving Code
 Learning to remember why you put blocks in your code and learning how to save them
 
+![Alt text](relative/path/to/Class-2 Code Blocks.png?raw=true "Word Blocks")
+
 
