@@ -27,5 +27,5 @@ Coding, sometimes called computer programming, is how we communicate with comput
 - LEGO SPIKE Prime: Exploring Scratch 
 https://flltutorials.com/en/Worksheets.html 
 
-[Code Block](Class-1-Code-Blocks.png)
+![Code Block](Class-1-Code-Blocks.png)
 
