@@ -1,4 +1,4 @@
-#Getting Started with Coding
+# Getting Started with Coding
 Quick starter for Lego League
 
 ## Why learn Coding?
