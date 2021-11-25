@@ -26,5 +26,8 @@ Use the my blocks created in Assigment #1 to:
 
 ### Move the bot in a Equilateral triangle of legth 20
 
+### Move the bot in Step shape (see image below)
+
+![Coding Assignment Movements](Coding-Assignment.png)
 
 
